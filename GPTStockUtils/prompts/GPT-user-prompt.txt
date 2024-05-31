@@ -1,0 +1,6 @@
+Analyze the data for stock {symbol}.  
+Here is the sentiment data I have for it:  {sentiment}
+This is the recent market data for the stock: {market}
+The company financial information is here: {finance}
+Provide an explanation for why this company is either something that should be sold, or bought, and explain why.  Or explain it is neutral if necessary.
+In addition to the explanation, in JSON format provide a score for the stock from 0 (should sell), to 10 (must buy), where 5 is neutral.  Here is an example: {{\"result\": 3}}.

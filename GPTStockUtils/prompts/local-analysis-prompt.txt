@@ -1,0 +1,14 @@
+﻿﻿Please analyze {symbol} and determine if it is a suitable candidate for a swing trade.  Check indicators and determine company health using everything that is given.
+Here is the latest news related to {symbol}:
+
+{sentiment}
+
+Here is the past 14 days of market data for SBUX:
+
+{market}
+
+Here is the remaining financial data for SBUX:
+
+{finance}
+
+Please provide a score between 1 and 10 that indicates suitability for a swing trade.   Return that score in JSON format.  Here is an example:  {{\"result\": 3}}

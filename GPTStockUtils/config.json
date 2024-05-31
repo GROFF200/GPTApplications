@@ -1,0 +1,152 @@
+{
+    "ACGL": {
+        "entry_point": 84.83,
+        "high_exit_point": 98.6,
+        "low_exit_point": 82.29
+    },
+    "ADP": {
+        "entry_point": 241.76,
+        "high_exit_point": 246.01,
+        "low_exit_point": 234.5
+    },
+    "AMAT": {
+        "entry_point": 170.1,
+        "high_exit_point": 213.82,
+        "low_exit_point": 163.3
+    },
+    "AMP": {
+        "entry_point": 376.9,
+        "high_exit_point": 426.43,
+        "low_exit_point": 361.82
+    },
+    "AXP": {
+        "entry_point": 189.51,
+        "high_exit_point": 232.19,
+        "low_exit_point": 181.93
+    },
+    "BKNG": {
+        "entry_point": 3356.96,
+        "high_exit_point": 3722.1,
+        "low_exit_point": 3222.68
+    },
+    "BKR": {
+        "entry_point": 32.9,
+        "high_exit_point": 35.7,
+        "low_exit_point": 30.92
+    },
+    "CNC": {
+        "entry_point": 73.17,
+        "high_exit_point": 77.35,
+        "low_exit_point": 70.25
+    },
+    "CPB": {
+        "low_exit_point": 40.6,
+        "entry_point": 42.73,
+        "high_exit_point": 49.51
+    },
+    "CSCO": {
+        "low_exit_point": 45.85,
+        "entry_point": 48.26,
+        "high_exit_point": 55.28
+    },
+    "CSGP": {
+        "entry_point": 84.13,
+        "high_exit_point": 95.36,
+        "low_exit_point": 80.77
+    },
+    "DXCM": {
+        "entry_point": 115.33,
+        "high_exit_point": 134.9,
+        "low_exit_point": 110.72
+    },
+    "EG": {
+        "entry_point": 378.18,
+        "high_exit_point": 397.02,
+        "low_exit_point": 366.83
+    },
+    "ELV": {
+        "entry_point": 484.39,
+        "high_exit_point": 523.58,
+        "low_exit_point": 469.86
+    },
+    "EW": {
+        "entry_point": 78.8,
+        "high_exit_point": 91.31,
+        "low_exit_point": 74.86
+    },
+    "FSLR": {
+        "entry_point": 165.78,
+        "high_exit_point": 272.27,
+        "low_exit_point": 159.15
+    },
+    "HIG": {
+        "entry_point": 84.92,
+        "high_exit_point": 100.04,
+        "low_exit_point": 81.52
+    },
+    "ISRG": {
+        "entry_point": 340.68,
+        "high_exit_point": 388.01,
+        "low_exit_point": 327.05
+    },
+    "KHC": {
+        "low_exit_point": 33.45,
+        "entry_point": 35.21,
+        "high_exit_point": 37.01
+    },
+    "MCK": {
+        "entry_point": 484.04,
+        "high_exit_point": 539.49,
+        "low_exit_point": 469.52
+    },
+    "MET": {
+        "entry_point": 66.86,
+        "high_exit_point": 72.11,
+        "low_exit_point": 63.51
+    },
+    "MSFT": {
+        "entry_point": 378.05,
+        "high_exit_point": 416.78,
+        "low_exit_point": 366.7
+    },
+    "NTAP": {
+        "entry_point": 88.95,
+        "high_exit_point": 112.44,
+        "low_exit_point": 85.39
+    },
+    "PAYX": {
+        "entry_point": 120.27,
+        "high_exit_point": 123.21,
+        "low_exit_point": 116.66
+    },
+    "PCAR": {
+        "entry_point": 98.95,
+        "high_exit_point": 119.22,
+        "low_exit_point": 95.99
+    },
+    "PHM": {
+        "entry_point": 96.71,
+        "high_exit_point": 116.58,
+        "low_exit_point": 92.84
+    },
+    "QCOM": {
+        "entry_point": 142.62,
+        "high_exit_point": 206.56,
+        "low_exit_point": 136.91
+    },
+    "SNA": {
+        "entry_point": 274.68,
+        "high_exit_point": 283.57,
+        "low_exit_point": 266.44
+    },
+    "SNPS": {
+        "entry_point": 521.84,
+        "high_exit_point": 597.91,
+        "low_exit_point": 500.97
+    },
+    "V": {
+        "entry_point": 260.54,
+        "high_exit_point": 276.41,
+        "low_exit_point": 252.72
+    }
+}

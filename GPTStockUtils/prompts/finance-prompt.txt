@@ -1,0 +1,1 @@
+Analyze the technical data for stock {symbol}: {stockdata} In JSON format, provide a score for the stock from 0 (should sell), to 10 (must buy), where 5 is neutral.  Return the score in JSON format. Here is an example: {{\"result\": 3}}. Remember, you MUST return the result in JSON format.

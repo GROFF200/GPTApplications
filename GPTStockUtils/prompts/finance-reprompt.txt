@@ -1,0 +1,1 @@
+Provide a score for the stock from 0 (should sell), to 10 (must buy), where 5 is neutral.  Return the score in JSON format. Here is an example of the format I require in your response: {{\"result\": 3}}.

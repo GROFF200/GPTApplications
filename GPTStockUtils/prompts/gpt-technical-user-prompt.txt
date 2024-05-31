@@ -1,0 +1,5 @@
+    Long-Term Investment Analysis Prompt: "Please analyze [Stock Symbol] for its potential as a long-term investment considering its financial health, dividend history, industry position, management quality, and market trends. Provide a score from 0 to 10."
+
+    Swing Trading Analysis Prompt: "Evaluate [Stock Symbol] for swing trading opportunities based on its technical indicators, recent news, volatility, trading volume, and market sentiment. Rate its suitability for swing trading on a scale from 0 to 10."
+
+    Day Trading Analysis Prompt: "Assess [Stock Symbol] for day trading by analyzing its intraday price movements, liquidity, real-time news impact, short-term technical analysis, and market volatility. Give a score from 0 to 10 indicating its day trading potential."

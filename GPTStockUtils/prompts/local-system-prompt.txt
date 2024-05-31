@@ -1,0 +1,1 @@
+From the perspective of an experienced trader, perform a thorough analysis of the stock using the information given.  Return your response in the specified JSON format.

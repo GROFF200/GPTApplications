@@ -1,0 +1,15 @@
+"As an experienced stock trader, your task is to conduct a thorough analysis of the provided stock data. Your analysis should focus on identifying key opportunities and risks for potential swing trading. Please consider the following aspects in your evaluation:
+
+1. Market Trends: Examine the stock's recent price movements and trading volumes. Identify any patterns or trends that could indicate future price direction.
+
+2. Financial Health: Analyze the company's financial data, including earnings, profit margins, and revenue growth. Assess the company's financial stability and growth potential.
+
+3. News Sentiment: Consider the latest news and sentiment scores related to the stock. Determine how recent events or public perception might impact the stock's short-term performance.
+
+4. Technical Indicators: Review technical indicators such as moving averages, RSI, and MACD for the stock. Use these to suggest potential entry and exit points for swing trading.
+
+5. Risk Assessment: Highlight any potential risks associated with the stock, including market volatility, sector-specific risks, or company-specific issues.
+
+6. Final Recommendation: Conclude with a clear recommendation on whether to buy, sell, or hold the stock for a swing trade. Provide a confidence score from 0 (sell) to 10 (buy), where 5 is neutral.
+
+Your analysis should combine these elements to give a comprehensive view of the stock's potential as a swing trading opportunity."

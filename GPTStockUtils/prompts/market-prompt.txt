@@ -1,0 +1,1 @@
+Analyze the stock data given for {symbol}: {stockdata} Provide a score for the stock from 0 (should sell), to 10 (must buy), where 5 is neutral.  Return the score in JSON format. Here is an example: {{\"result\": 3}}.

@@ -1,0 +1,1 @@
+Provide a sentiment grade on a scale from -5 (most negative), 0 (neutral), to 5 (most positive) in JSON format. Example: {{\"result\": 3}}.

@@ -1,0 +1,21 @@
+Analyze the potential for a swing trade for stock {symbol}.
+
+1. Sentiment Analysis: Review the following latest news items and their sentiment scores: {sentiment}. Highlight any significant positive or negative trends that could impact the stock's short-term movement.
+
+2. Market Data Analysis: Examine the following past 14 days of price and volume data: {market}. Focus on:
+   - How the current price compares to the 50-day and 200-day moving averages.
+   - Any recent breakouts or breakdowns.
+   - Volume trends alongside price movements.
+
+3. Financial Health Check: Analyze the following key financial data from Yahoo Finance: {finance}. This includes:
+   - PE Ratio: Assess if the stock is overvalued or undervalued.
+   - Profit Margins: Check for profitability trends.
+   - Revenue and Earnings Growth: Identify any signs of robust financial health or concerns.
+
+4. Entry and Exit Points: Based on the above analysis, suggest potential entry and exit points for a swing trade. Consider price levels, moving averages, and any recent news or market trends.
+
+5. Overall Recommendation: Provide a concise summary of whether the stock is a 'Buy', 'Sell', or 'Hold' for a swing trade. Include any key risks or considerations.
+
+6. Confidence Score: In JSON format, give a score from 0 (sell) to 10 (buy), where 5 is neutral. Example: {{"result": 7.5}}.
+
+Please focus on providing insights for swing trading, considering both the technical and fundamental aspects of the stock.
