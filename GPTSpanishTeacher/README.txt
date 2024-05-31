@@ -16,8 +16,3 @@ To run this script you need:
 
 1.  Python 3.11.8 or higher
 2.  Run this to install the required dependencies:  pip install sounddevice numpy scipy pygame openai
-
-
-MOST IMPORTANTLY:
-
-DO NOT LET MY API KEY OUT INTO THE WORLD! You can use this application for about an hour before it starts to exceed my budget.
