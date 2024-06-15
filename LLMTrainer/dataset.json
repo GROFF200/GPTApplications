@@ -1,0 +1,17 @@
+{
+  "conversations": [
+    [
+      {"from": "human", "value": "Hi there!"},
+      {"from": "gpt", "value": "Hello! How can I assist you today?"},
+      {"from": "human", "value": "Can you tell me the time?"},
+      {"from": "gpt", "value": "Of course! It's currently 3 PM."}
+    ],
+    [
+      {"from": "human", "value": "What's the capital of France?"},
+      {"from": "gpt", "value": "The capital of France is Paris."},
+      {"from": "human", "value": "Thank you!"},
+      {"from": "gpt", "value": "You're welcome! Anything else I can help with?"}
+    ]
+  ]
+}
+
