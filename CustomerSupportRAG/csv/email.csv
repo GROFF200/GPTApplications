@@ -1,0 +1,12 @@
+Subject,Body,From: (Name),From: (Address),To: (Name),To: (Address)
+"Issue with Server Connectivity","We are experiencing repeated connectivity issues with server SVR002. Please advise.","John Doe","john.doe@acme.com","Support","support@acme.com"
+"Upgrade Database Software","Could you provide the procedure to upgrade our database software to the latest version?","Jane Smith","jane.smith@acme.com","Support","support@acme.com"
+"Password Reset Request","I forgot my login details for the ACME portal. Can you reset my credentials?","Bob Brown","bob.brown@acme.com","IT Helpdesk","ithelpdesk@acme.com"
+"New Employee Setup","Please set up a workstation and required accounts for our new employee, Alice Cooper.","Alice Cooper","alice.cooper@acme.com","IT Support","itsupport@acme.com"
+"Query About Remote Access","I need help setting up remote access for my device. Please send the steps involved.","Carl Marks","carl.marks@acme.com","IT Helpdesk","ithelpdesk@acme.com"
+Subject,Body,From: (Name),From: (Address),To: (Name),To: (Address)
+"Server Downtime Alert","There has been unexpected downtime on server SVR101 hosting our main website. Urgent attention needed.","Alex Roe","alex.roe@webtech.com","IT Support","support@webtech.com"
+"SSL Certificate Renewal","The SSL certificate for www.webtech.com is due to expire next week. Please initiate the renewal process.","Maria Lane","maria.lane@webtech.com","Web Admin","admin@webtech.com"
+"CMS Upgrade Required","We need to schedule an upgrade for our CMS to the latest version to patch security vulnerabilities.","Sam Tyron","sam.tyron@webtech.com","DevOps Team","devops@webtech.com"
+"New Plugin Installation","Please install the new SEO plugin on our WordPress setup as discussed in our last meeting.","Janet Marks","janet.marks@webtech.com","Web Development","webdev@webtech.com"
+"Operating System Update Notification","It’s time to update the operating systems on our web servers to ensure compatibility with upcoming software updates.","Theo Crest","theo.crest@webtech.com","System Admins","sysadmin@webtech.com"

@@ -1,0 +1,68 @@
+ACME Web Services Overview
+ACME operates a multi-tier web service architecture designed to ensure high availability and secure transactions for all our clients. Our primary web servers are hosted on AWS and Azure, providing robust scalability and reliability.
+======###
+Server Specifications
+The main web server, AWS-Web01, runs Apache 2.4 on Ubuntu 20.04, equipped with a load balancer handling incoming traffic to distribute loads evenly across two backend servers. Each server supports HTTP/2 to enhance the speed and efficiency of communications.
+======###
+Login Procedures
+Access to the server backend is secured through SSH keys and all administrative tasks require two-factor authentication. System administrators only have access through a secure VPN, with all activities logged for auditing purposes.
+======###
+Database Management
+Our primary database server, DB01, runs MySQL 8.0 on a dedicated Linux server. Daily backups are automated and stored in a geo-redundant cloud storage solution to prevent data loss in case of physical damage to the data center.
+======###
+Content Delivery Network (CDN) Usage
+ACME utilizes Cloudflare as its CDN to ensure fast content delivery worldwide. The CDN caches static content at edge locations globally, reducing the load on our primary servers and improving user experience.
+======###
+Security Measures
+Regular security audits are performed, with updates to firewalls and intrusion detection systems applied promptly. All web traffic is encrypted using TLS 1.3, and our cybersecurity team monitors for any suspicious activity 24/7.
+======###
+Server Upgrade Schedule
+Quarterly maintenance and upgrades are scheduled for all servers to ensure they remain secure and perform optimally. Upcoming maintenance for server AWS-Web01 is scheduled for the third quarter of 2024, during which we will upgrade the operating system and Apache software.
+======###
+Documentation and Support
+Detailed documentation is available on our internal Wiki, which includes server configurations, troubleshooting guides, and contact information for our IT support team. This resource is continuously updated to reflect any changes in our infrastructure or procedures.
+======###
+Detailed Server Configuration
+Server Name: ACME-Web01
+Description: This server handles all incoming web traffic for the ACME online portal. It's configured to manage load balancing and SSL termination.
+IP Address: 192.168.1.101
+Operating System: Ubuntu 20.04 LTS
+Installed Software: Apache 2.4.29, PHP 7.4
+Security: Firewall enabled with automatic security patches enabled.
+Login Info: Access restricted to internal IPs and requires SSH key authentication.
+======###
+Backup Server Details
+Server Name: ACME-Backup01
+Description: Dedicated backup server for ACME Web Services, performing nightly backups of all critical data.
+IP Address: 192.168.1.102
+Operating System: CentOS 8
+Installed Software: rsync 3.1, cron jobs for scheduled backups
+Security: Configured with AES 256-bit encryption for storing backups. Access is restricted to the network operations team.
+Login Info: Login via SSH using credentials - Username: backupadmin, Password: B@ckup$321
+======###
+Database Server Configuration
+Server Name: ACME-DB01
+Description: Primary database server hosting all customer and transaction data.
+IP Address: 192.168.1.103
+Operating System: Debian 10
+Installed Software: MySQL 8.0.21, automatic data replication to a secondary server
+Security: TLS encryption for all data in transit, with daily vulnerability scans.
+Login Info: Database access is managed through MySQL Workbench with secured connections only.
+======###
+Email Server Information
+Server Name: ACME-Mail01
+Description: Manages all incoming and outgoing corporate emails for ACME.
+IP Address: 192.168.1.104
+Operating System: Windows Server 2019
+Installed Software: Microsoft Exchange Server 2019
+Security: Integrated with ACME's active directory for authentication; supports S/MIME for email encryption.
+Login Info: Accessible only to users on the corporate domain. External access requires VPN with multi-factor authentication.
+======###
+Content Management System (CMS) Details
+Server Name: ACME-CMS01
+Description: Hosts the WordPress installation managing ACME’s content and blogs.
+IP Address: 192.168.1.105
+Operating System: Ubuntu 18.04 LTS
+Installed Software: WordPress 5.7, Nginx 1.18
+Security: Regularly updated WordPress plugins and themes. Web Application Firewall (WAF) enabled.
+Login Info: Admin access at www.acme.com/admin with credentials - Username: acmewebmaster, Password: SecureAdmin$2024
